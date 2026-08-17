@@ -1,19 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A8E8&height=80&section=header" />
-
-## 👨‍💻 Sobre mim
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&width=750&lines=Desenvolvedor+Fullstack;Back-end%3A+Python+%7C+Django+%7C+FastAPI+%7C+Flask;Front-end%3A+React.js+%7C+Vue.js+%7C+Nuxt+%7C+TypeScript;Banco+de+dados%3A+PostgreSQL+%7C+SQL+Server;DevOps%3A+Docker+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
-<table align="center">
-  <tr><td style="padding: 4px 12px;">🌱 Atualmente estudando <b>Python</b> e <b>Cloud (AWS)</b></td></tr>
-  <tr><td style="padding: 4px 12px;">📍 Campinas (SP), Brasil</td></tr>
-  <tr><td style="padding: 4px 12px;">💼 Aberto a oportunidades <b>CLT</b> e <b>PJ</b></td></tr>
-  <tr><td style="padding: 4px 12px;">📫 Entre em contato pelo LinkedIn</td></tr>
-</table>
+## 👨‍💻 Sobre mim
+* 🌱 Atualmente estudando <b>Python</b> e <b>Cloud (AWS)</b>
+* 📍 Campinas (SP), Brasil
+* 💼 Aberto a oportunidades <b>CLT</b> e <b>PJ</b>
+* 📫 Entre em contato pelo LinkedIn
 
 ## 🚀 Tecnologias que utilizo no dia a dia
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="Python" style="height: 28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
   <img alt="React" style="height: 28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
   <img alt="Vue.js" style="height: 28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js">
@@ -28,11 +24,14 @@
   <img alt="Git" style="height: 28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
 </div>
 
+## 🐍 Contribuições
+<div align="left">
+  <img src="https://raw.githubusercontent.com/pedrogoncaloDev/pedrogoncaloDev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 ## 🌐 Rede Social
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pedrogoncalodev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A8E8&height=80&section=footer" />
