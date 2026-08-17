@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:6C63FF&height=150&section=header&text=Pedro%20Gonçalo&fontSize=38&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A8E8&height=80&section=header" />
 
 ## 👨‍💻 Sobre mim
 <p>
@@ -35,4 +35,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A8E8&height=60&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00A8E8&height=80&section=footer" />
