@@ -36,11 +36,6 @@
   <img alt="Git" style="height: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
 </div>
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
 ## 🌐 Rede Social
 <div>
   <a href="https://www.linkedin.com/in/pedrogoncalodev/" target="_blank">
